@@ -1,0 +1,335 @@
+{
+  "" : {
+    "const-values" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/iGoat-Swift-master.swiftconstvalues",
+    "dependencies" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/iGoat-Swift-master.d",
+    "diagnostics" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/iGoat-Swift-master.dia",
+    "emit-module-dependencies" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/iGoat-Swift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/iGoat-Swift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/iGoat-Swift-master.swiftdeps"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/DerivedSources/CoreDataGenerated/CoreData/CoreData+CoreDataModel.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CoreData+CoreDataModel.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CoreData+CoreDataModel.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CoreData+CoreDataModel.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/DerivedSources/CoreDataGenerated/CoreData/User+CoreDataClass.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/User+CoreDataClass.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/User+CoreDataClass.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/User+CoreDataClass.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/DerivedSources/CoreDataGenerated/CoreData/User+CoreDataProperties.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/User+CoreDataProperties.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/User+CoreDataProperties.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/User+CoreDataProperties.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/GeneratedAssetSymbols.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/AppDelegate.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/AppDelegate.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Constants/Constants.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/Constants.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/Constants.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/Constants.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Container/AboutCell.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/AboutCell.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/AboutCell.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/AboutCell.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Container/ExerciseDemoVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/ExerciseDemoVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/ExerciseDemoVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/ExerciseDemoVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Container/ExerciseFlowController.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/ExerciseFlowController.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/ExerciseFlowController.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/ExerciseFlowController.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Container/ExerciseIntroductionVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/ExerciseIntroductionVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/ExerciseIntroductionVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/ExerciseIntroductionVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Container/ExercisesVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/ExercisesVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/ExercisesVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/ExercisesVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Container/HintVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/HintVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/HintVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/HintVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Container/HTMLViewController.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/HTMLViewController.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/HTMLViewController.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/HTMLViewController.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Container/MenuTableViewController.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/MenuTableViewController.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/MenuTableViewController.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/MenuTableViewController.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Authentication/Remote/RemoteAuthenticationExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/RemoteAuthenticationExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/RemoteAuthenticationExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/RemoteAuthenticationExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Binary Patching/BinaryPatchingVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/BinaryPatchingVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/BinaryPatchingVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/BinaryPatchingVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Broken Cryptography/Crypto Challenge/CryptoChallengeVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CryptoChallengeVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CryptoChallengeVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CryptoChallengeVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Injection Flaws/SQL Injection/SQLInjectionArticlesVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SQLInjectionArticlesVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SQLInjectionArticlesVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SQLInjectionArticlesVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Injection Flaws/SQL Injection/SQLInjectionExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SQLInjectionExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SQLInjectionExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SQLInjectionExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Injection Flaws/XSS/CrossSiteScriptingExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CrossSiteScriptingExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CrossSiteScriptingExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CrossSiteScriptingExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/BinaryCookies/BinaryCookiesExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/BinaryCookiesExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/BinaryCookiesExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/BinaryCookiesExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/CoreData/CoreDataExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CoreDataExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CoreDataExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CoreDataExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/CouchBase/CouchBaseExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CouchBaseExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CouchBaseExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CouchBaseExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/KeychainAnalyze/KeychainExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/KeychainExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/KeychainExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/KeychainExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/KeychainAnalyze/KeychainPasswordItem.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/KeychainPasswordItem.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/KeychainPasswordItem.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/KeychainPasswordItem.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/NSUserDefaults/NSUserDefaultsStorageExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/NSUserDefaultsStorageExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/NSUserDefaultsStorageExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/NSUserDefaultsStorageExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/PlistStorage/PlistStorageExerciseViewController.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/PlistStorageExerciseViewController.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/PlistStorageExerciseViewController.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/PlistStorageExerciseViewController.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/Realm/RealmExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/RealmExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/RealmExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/RealmExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/WebKit Cache/WebkitCacheExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/WebkitCacheExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/WebkitCacheExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/WebkitCacheExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/Yap/YapExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/YapExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/YapExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/YapExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Key Management/Hard Coded Keys/BrokenCryptographyExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/BrokenCryptographyExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/BrokenCryptographyExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/BrokenCryptographyExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Key Management/Key Storage Server Side/KeyStorageServerSideVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/KeyStorageServerSideVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/KeyStorageServerSideVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/KeyStorageServerSideVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Key Management/Random Key Generation/RandomKeyGenerationExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/RandomKeyGenerationExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/RandomKeyGenerationExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/RandomKeyGenerationExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Memory Management/MemoryManagementVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/MemoryManagementVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/MemoryManagementVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/MemoryManagementVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Reverse Engineering/StringAnalysisExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/StringAnalysisExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/StringAnalysisExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/StringAnalysisExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Runtime Analysis/BruteForce attack/BruteForceRuntimeVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/BruteForceRuntimeVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/BruteForceRuntimeVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/BruteForceRuntimeVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Runtime Analysis/Runtime Challenge/RuntimeAnalysisChallengeVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/RuntimeAnalysisChallengeVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/RuntimeAnalysisChallengeVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/RuntimeAnalysisChallengeVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Server Communication/ServerCommunicationExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/ServerCommunicationExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/ServerCommunicationExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/ServerCommunicationExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/SideChannelDataLeaks/Backgrounding/BackgroundingExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/BackgroundingExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/BackgroundingExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/BackgroundingExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/SideChannelDataLeaks/CloudMisconfiguration/CloudMisconfigurationExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CloudMisconfigurationExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CloudMisconfigurationExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CloudMisconfigurationExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/SideChannelDataLeaks/CutNPaste/CutAndPasteExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CutAndPasteExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CutAndPasteExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CutAndPasteExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/SideChannelDataLeaks/DeviceLogs/DeviceLogsExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/DeviceLogsExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/DeviceLogsExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/DeviceLogsExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/SideChannelDataLeaks/KeyStroke/KeystrokeLoggingExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/KeystrokeLoggingExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/KeystrokeLoggingExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/KeystrokeLoggingExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Social Engineering/SocialEngineeringVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SocialEngineeringVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SocialEngineeringVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SocialEngineeringVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Tampering/MethodSwizzlingExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/MethodSwizzlingExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/MethodSwizzlingExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/MethodSwizzlingExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/URL Scheme/URLSchemeAttackExerciseVC.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/URLSchemeAttackExerciseVC.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/URLSchemeAttackExerciseVC.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/URLSchemeAttackExerciseVC.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/Data+Extension.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/Data+Extension.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/Data+Extension.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/Data+Extension.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/NSObject+Extension.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/NSObject+Extension.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/NSObject+Extension.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/NSObject+Extension.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/NSString+Extension.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/NSString+Extension.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/NSString+Extension.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/NSString+Extension.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/UIAlertController+Extension.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UIAlertController+Extension.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UIAlertController+Extension.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UIAlertController+Extension.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/UIStoryBoard+Extension.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UIStoryBoard+Extension.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UIStoryBoard+Extension.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UIStoryBoard+Extension.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/UITableViewCell+Extension.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UITableViewCell+Extension.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UITableViewCell+Extension.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UITableViewCell+Extension.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/UIView+Extension.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UIView+Extension.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UIView+Extension.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UIView+Extension.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/UIViewController+Extension.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UIViewController+Extension.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UIViewController+Extension.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UIViewController+Extension.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/URL+Extension.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/URL+Extension.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/URL+Extension.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/URL+Extension.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/External/SideBar/CenterContainmentSegue.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CenterContainmentSegue.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CenterContainmentSegue.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/CenterContainmentSegue.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/External/SideBar/SideContainmentSegue.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SideContainmentSegue.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SideContainmentSegue.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SideContainmentSegue.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/External/SideBar/SideMenuController.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SideMenuController.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SideMenuController.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SideMenuController.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/External/SideBar/SideMenuController+CustomTypes.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SideMenuController+CustomTypes.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SideMenuController+CustomTypes.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SideMenuController+CustomTypes.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/External/SideBar/SideMenuController+SideOver.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SideMenuController+SideOver.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SideMenuController+SideOver.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SideMenuController+SideOver.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/External/SideBar/SideMenuController+SideUnder.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SideMenuController+SideUnder.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SideMenuController+SideUnder.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/SideMenuController+SideUnder.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/External/SideBar/TransitionAnimator.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/TransitionAnimator.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/TransitionAnimator.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/TransitionAnimator.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/External/SideBar/UIKitExtensions.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UIKitExtensions.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UIKitExtensions.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/UIKitExtensions.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Model/Asset.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/Asset.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/Asset.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/Asset.o"
+  },
+  "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Model/Exercise.swift" : {
+    "index-unit-output-path" : "/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/Exercise.o",
+    "llvm-bc" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/Exercise.bc",
+    "object" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/Objects-normal/x86_64/Exercise.o"
+  }
+}

@@ -1,0 +1,135 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "723be1f3713efc9cb399925065777a7e8cc36ce3384deadb141d981a0e116d84"
+build_start_time: [1716500880, 30095000]
+build_end_time: [1716500914, 994489000]
+inputs:
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/DerivedSources/CoreDataGenerated/CoreData/CoreData+CoreDataModel.swift"
+  : [1716500840, 7863295]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/DerivedSources/CoreDataGenerated/CoreData/User+CoreDataClass.swift"
+  : [1716500840, 10371854]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/DerivedSources/CoreDataGenerated/CoreData/User+CoreDataProperties.swift"
+  : [1716500840, 11453844]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/build/iGoat-Swift.build/Release-iphonesimulator/iGoat-Swift.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1716500839, 340422584]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/AppDelegate.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Constants/Constants.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Container/AboutCell.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Container/ExerciseDemoVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Container/ExerciseFlowController.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Container/ExerciseIntroductionVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Container/ExercisesVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Container/HTMLViewController.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Container/HintVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Container/MenuTableViewController.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Authentication/Remote/RemoteAuthenticationExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Binary Patching/BinaryPatchingVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Broken Cryptography/Crypto Challenge/CryptoChallengeVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Injection Flaws/SQL Injection/SQLInjectionArticlesVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Injection Flaws/SQL Injection/SQLInjectionExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Injection Flaws/XSS/CrossSiteScriptingExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/BinaryCookies/BinaryCookiesExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/CoreData/CoreDataExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/CouchBase/CouchBaseExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/KeychainAnalyze/KeychainExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/KeychainAnalyze/KeychainPasswordItem.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/NSUserDefaults/NSUserDefaultsStorageExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/PlistStorage/PlistStorageExerciseViewController.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/Realm/RealmExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/WebKit Cache/WebkitCacheExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/InsecureLocalDataStorage/Yap/YapExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Key Management/Hard Coded Keys/BrokenCryptographyExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Key Management/Key Storage Server Side/KeyStorageServerSideVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Key Management/Random Key Generation/RandomKeyGenerationExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Memory Management/MemoryManagementVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Reverse Engineering/StringAnalysisExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Runtime Analysis/BruteForce attack/BruteForceRuntimeVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Runtime Analysis/Runtime Challenge/RuntimeAnalysisChallengeVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Server Communication/ServerCommunicationExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/SideChannelDataLeaks/Backgrounding/BackgroundingExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/SideChannelDataLeaks/CloudMisconfiguration/CloudMisconfigurationExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/SideChannelDataLeaks/CutNPaste/CutAndPasteExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/SideChannelDataLeaks/DeviceLogs/DeviceLogsExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/SideChannelDataLeaks/KeyStroke/KeystrokeLoggingExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Social Engineering/SocialEngineeringVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/Tampering/MethodSwizzlingExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Exercises/URL Scheme/URLSchemeAttackExerciseVC.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/Data+Extension.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/NSObject+Extension.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/NSString+Extension.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/UIAlertController+Extension.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/UIStoryBoard+Extension.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/UITableViewCell+Extension.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/UIView+Extension.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/UIViewController+Extension.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Extensions/URL+Extension.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/External/SideBar/CenterContainmentSegue.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/External/SideBar/SideContainmentSegue.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/External/SideBar/SideMenuController+CustomTypes.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/External/SideBar/SideMenuController+SideOver.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/External/SideBar/SideMenuController+SideUnder.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/External/SideBar/SideMenuController.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/External/SideBar/TransitionAnimator.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/External/SideBar/UIKitExtensions.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Model/Asset.swift"
+  : [1696411680, 0]
+  ? "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift/Source/Model/Exercise.swift"
+  : [1696411680, 0]

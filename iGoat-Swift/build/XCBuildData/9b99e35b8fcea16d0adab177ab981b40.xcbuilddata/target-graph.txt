@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'iGoat-Swift' in project 'iGoat-Swift' (no dependencies)

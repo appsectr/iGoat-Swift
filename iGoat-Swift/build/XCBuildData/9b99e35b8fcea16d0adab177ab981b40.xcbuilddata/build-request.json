@@ -1,0 +1,40 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "9f3cf05af2f1063dbabd1f115cd217373c229ef29b0c3ddb054a8e8114844f1d"
+    }
+  ],
+  "containerPath" : "/Users/fturan/Downloads/Fortify_23.2.0/Fortify_SCA_Samples_23.2.0/advanced/swift/iGoat-Swift/iGoat-Swift/iGoat-Swift.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "GCC_PRECOMPILE_PREFIX_HEADER" : "NO",
+          "RUN_CLANG_STATIC_ANALYZER" : "NO",
+          "SDKROOT" : "iphonesimulator17.0"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
